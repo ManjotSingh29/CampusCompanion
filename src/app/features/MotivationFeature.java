@@ -4,9 +4,9 @@ public class MotivationFeature {
     public static String run() {
         return "Motivation\n"
              + "------------------------------\n"
-             + "Student Name: YOUR NAME HERE\n"
-             + "What motivates you:\n"
-             + "Replace this text with your motivation.\n"
+             + "Student Name: Aina\n"
+             + "What motivates you: Potential to grow\n"
+             + "Potential to grow.\n"
              + "------------------------------\n";
     }
 }
